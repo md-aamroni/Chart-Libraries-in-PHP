@@ -6,6 +6,7 @@
 		"role": "Application Developer",
 		"homepage": "https://md-aamroni.github.io"
 	}],
+
 	"require": {
 		"vlucas/phpdotenv": "^5.3"
 	},
