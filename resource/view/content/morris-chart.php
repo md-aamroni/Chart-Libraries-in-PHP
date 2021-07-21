@@ -141,8 +141,56 @@
 ?>
 
 
-<h2>Helloworld</h2>
-
-<?php echo $data; ?>
-
+		<div class="col-12 col-xl-7">
+			<div class="row">
+				<div class="col-12 col-xl-12">
+					<div class="card my-2 border-light">
+						<div class="card-header bg-light">
+							Featured
+						</div>
+						<div class="card-body">
+							<h5 class="card-title">Special title treatment</h5>
+							<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+							<a href="#" class="btn btn-primary">Go somewhere</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-12 col-xl-12">
+					<div class="card my-2 border-light">
+						<div class="card-header bg-light">
+							Featured
+						</div>
+						<div class="card-body">
+							<h5 class="card-title">Special title treatment</h5>
+							<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+							<a href="#" class="btn btn-primary">Go somewhere</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-12 col-xl-5">
+			<div class="card my-2 border-light">
+				<div class="card-header bg-light">
+					Featured
+				</div>
+				<div class="card-body">
+					<h5 class="card-title">Special title treatment</h5>
+					<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+					<a href="#" class="btn btn-primary">Go somewhere</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-12 col-xl-12">
+			<div class="card my-2 border-light">
+				<div class="card-header bg-light">
+					Featured
+				</div>
+				<div class="card-body">
+					<h5 class="card-title">Special title treatment</h5>
+					<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+					<a href="#" class="btn btn-primary">Go somewhere</a>
+				</div>
+			</div>
+		</div>
 

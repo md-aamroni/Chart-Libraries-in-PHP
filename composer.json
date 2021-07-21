@@ -1,13 +1,13 @@
 {
-	"name": "project/morris-chart-library-in-php",
+	"name": "project/chart-library-in-php",
 	"license": "(LGPL-2.1-only or GPL-3.0-or-later)",
+	"description": "Data visualization for business logic perspective the repository will help to integrate charts using PHP and MySQL",
 	"authors": [{
 		"name": "Abdullah Al Mamun Roni",
 		"email": "md.aamroni@gmail.com",
 		"role": "Application Developer",
 		"homepage": "https://md-aamroni.github.io"
 	}],
-
 	"require": {
 		"vlucas/phpdotenv": "^5.3"
 	},
