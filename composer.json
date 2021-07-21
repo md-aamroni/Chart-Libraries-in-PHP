@@ -1,6 +1,7 @@
 {
 	"name": "project/morris-chart-library-in-php",
 	"license": "(LGPL-2.1-only or GPL-3.0-or-later)",
+	"description": "Some description will be useful too!",
 	"authors": [{
 		"name": "Abdullah Al Mamun Roni",
 		"email": "md.aamroni@gmail.com",
