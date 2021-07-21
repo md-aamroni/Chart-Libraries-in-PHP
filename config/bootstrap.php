@@ -36,3 +36,12 @@ if (is_array($files)) {
 		}
 	}
 }
+
+
+define('DEBUG', $_ENV['APP_DEBUG']);
+
+if (DEBUG) {
+	ini_set('display_errors', 1);
+} else {
+	ini_set('display_errors', 0);
+}

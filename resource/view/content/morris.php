@@ -1,3 +1,5 @@
+<?php
+/*
 <script src="asset('plugins/morris/raphael.min.js')"></script>
 <script src="asset('plugins/morris/morris.min.js')"></script>
 
@@ -135,3 +137,12 @@
    areaChart('areaChart', 0, 0, areaChartData, 'y', ['a', 'b', 'c'], ['Purchase', 'Sale', 'Stock'], ['#ccc', '#f16c69', '#28bbe3']);
    stackedChart('stackedChart', stckedChartData, 'y', ['a', 'b', 'c'], ['Series A', 'Series B', 'Series C'], ['#ccc', '#ff9800', '#f16c69']);
 </script>
+*/
+?>
+
+
+<h2>Helloworld</h2>
+
+<?php echo $data; ?>
+
+
